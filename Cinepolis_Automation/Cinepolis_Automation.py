@@ -81,17 +81,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# TODO Primera parte (llegar hasta el drag and drop de la selección de horario)
-#  abrir pag de cinepolis.
-#  cerrar la ventana inicial.
-#  Seleccionar una ubicación del drop down al azar.
-#  Seleccionar un cine del drop down al azar.
-#  Seleccionar un horario con la barra slider.
-
-#TODO Segunda  Parte
-# En la pagina de la pelicula:
-# validar los horarios
-# Sinopsis
-# que haya trailer
-# y que tenga la seccion de recomendaciones
